@@ -4,5 +4,5 @@
 
 
 ## demo 演示
-![image](https://github.com/choujayyl/QGraphicsViewTest/blob/main/res/demo.mp4)
+![image](https://github.com/choujayyl/linux_oled_lvgl/blob/main/res/demo.mp4)
 
